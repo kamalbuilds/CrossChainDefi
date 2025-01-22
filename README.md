@@ -1,4 +1,4 @@
-# MultiChainX
+# CrossChainDefi
 
 --> Multichain Lending and Borrowing Platform
 
